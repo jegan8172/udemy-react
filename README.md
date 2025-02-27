@@ -1,4 +1,4 @@
-# Udemy Clone - React JS (Frontend Only)
+# Udemy Clone - React JS
 
 ## Overview
 
@@ -19,7 +19,7 @@ This project is a frontend-only clone of the popular online learning platform, U
 - **React Icons**: For using icons in the project (optional).
 
 ## Link
-- Visit [Udemy-reactApp](udemy-react-gules.vercel.app).
+- Visit(udemy-react-gules.vercel.app)
 
 
 
